@@ -26,5 +26,5 @@ in modern FP&A roles — from raw data to executive reporting.
 
 ## Author
 Antonio Heredia · Economics & Finance · Toronto Metropolitan University  
-[LinkedIn](#) · [Portfolio Page](#)
 
+[LinkedIn](https://www.linkedin.com/in/antonio-heredia/) · [Portfolio Page](#)
