@@ -16,10 +16,13 @@
 - 42 employees across 5 departments
 - 135 months of budget vs actual data
 
-## Phase 2 — SQL Database (NEXT)
-- [ ] Create SQLite database from CSV files
-- [ ] Write core analytical SQL queries
-- [ ] Revenue by segment, month, churn analysis
+## Phase 2 — SQL Database ✓ COMPLETE (March 17 2026)
+- [x] Created SQLite database (forge.db) from 5 CSV files
+- [x] Written SQL query library (queries.sql) with 7 core queries
+- [x] Revenue by segment — Enterprise $14M, Mid-Market $8.4M, SMB $2.3M
+- [x] Total ARR — $18.8M across 500 customers
+- [x] Budget vs actual — all departments over budget, G&A worst at +5.5%
+- [x] JOIN queries connecting customers, contracts, revenue tables
 
 ## Phase 3 — Python Modeling (UPCOMING)
 - [ ] Jupyter notebook setup
