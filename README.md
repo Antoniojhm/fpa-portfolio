@@ -1,7 +1,7 @@
 # FP&A Analytics Portfolio
 ### End-to-end financial planning & analysis simulation | Antonio Heredia
 
-A full-stack FP&A project built on a simulated SaaS company dataset. 
+An end-to-end FP&A simulation built on FORGE — a fictional B2B SaaS company. 
 Designed to demonstrate the analytical and technical skills required 
 in modern FP&A roles — from raw data to executive reporting.
 
